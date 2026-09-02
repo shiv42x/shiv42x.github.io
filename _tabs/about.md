@@ -17,6 +17,7 @@ I'm also an enthusiast of database internals (the book too) and game development
 * ***Govt. of Ontario*** - *Data Engineer Co-op (DataCenter Operations, 8 months)*
   - I built centralized reporting for our data center resources, that contributed to a 24% reduction in infrastructure costs. I also optimized slow SQL queries, and learned a lot about optimization in general.
   - Used: Azure Data Factory, SQL Server & SSIS, Power BI
+
 ---
 
 ### Let's Connect
