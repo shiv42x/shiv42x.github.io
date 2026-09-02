@@ -3,7 +3,7 @@ layout: post
 title: "Exceptional Data Structures: HyperLogLog"
 date: 2026-09-01 09:18:00 -1600
 categories: [Exceptional Data Structures]
-tags: [c++, data engineering, probabilistic, scalable, data structures]
+tags: [c++, data engineering, probabilistic, data structures]
 math: true
 ---
 
