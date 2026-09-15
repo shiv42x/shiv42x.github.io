@@ -36,7 +36,7 @@ Your stream just sent you the string `"Hello, World!"`.
    hash('Hello,\; World!') \rightarrow (1805101170)_{10}
    $$
 
-    > Our hash function must be deterministic (hashing the same item again should produce the same hash), uniformly distributed (more later) and fixed-width. A good candidate is Murmur3's 128-bit, taking only the first (or second) 64-bits.
+    > Our hash function must be deterministic (hashing the same item again should produce the same hash), uniformly distributed (more later) and fixed-width. A good candidate is Murmur3's 128-bit version, taking only the first (or second) 64-bits.
     {: .prompt-warning } 
 
 2. Next, take the binary representation of the hash, and count the number of leading zeros.
