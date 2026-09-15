@@ -85,7 +85,7 @@ P(H_3) = 1/2^3 = 1/8 \\ \\
 P(0_3) = 1/2^3 = 1/8
 $$
 
-But what does $1/8$ mean really? Well, if read as $1$-in-$8$, it means that the occurrence of said event is once every eight times ***on average***. So, every $8$ times we toss three coins, we will read $3$ heads once ***on average***. The same way, if we generate $3$ random bits $8$ times, we will observe $3$ $'0s'$ once ***on average***. 
+But what does $1/8$ mean really? Well, if read as $1$-in-$8$, it means that the occurrence of said event is once every eight times ***on average***. So, every $8$ times we toss three coins, we will read $3$ heads once ***on average***. The same way, if we generate $3$ random bits $8$ times, we will observe $3$ '$0s$' once ***on average***. 
 
 This generalizes to the formula $1/{2^{n}}$ where $n$ is the number of sequential but independent events by virtue of the <a href="https://en.wikipedia.org/wiki/Probability#Independent_events" target="_blank" rel="noopener noreferrer">multiplication rule.</a>
 
