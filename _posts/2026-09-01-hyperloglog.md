@@ -59,7 +59,7 @@ But, can we estimate how many items we must have hashed to produce a value of $1
 
 Because we assumed our hash function is uniformly distributed (every bit pattern is equally likely), we can apply some basic probability theory to estimate this number. However, before we jump into any math or plugging numbers into formulae, we should build an intuition around bit patterns and probability. 
 
-> NOTE: In the official algorithm, the position of the first set bit (1-indexed) is counted instead of the number of leading zeros. But it is mathematically equivalent to counting the number of leading zeros. 
+> In the official algorithm, the position of the first set bit (1-indexed) is counted instead of the number of leading zeros. But it is mathematically equivalent to counting the number of leading zeros. 
 {: .prompt-warning }
 
 ### Bits & Coin Flips
